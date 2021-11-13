@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Med Standards</string>
+
+    <string name="title_airForce">Air Force</string>
+    <string name="title_army">Army</string>
+    <string name="title_navy">Navy</string>
+    <string name="title_about">About</string>
+
+    <string name="starting_elevation">Starting Elevation:</string>
+    <string name="feet">Feet</string>
+    <string name="ft">ft</string>
+    <string name="cabin_altitude">Cabin Altitude:</string>
+    <string name="initial_fi02">Initial FiO2:</string>
+    <string name="percent">Percent</string>
+    <string name="percent_symbol">%</string>
+    <string name="calculate">Calculate</string>
+
+</resources>
