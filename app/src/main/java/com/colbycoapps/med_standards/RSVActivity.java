@@ -1,8 +1,6 @@
 package com.colbycoapps.med_standards;
 
 import android.os.Bundle;
-import android.view.View;
-import android.widget.AdapterView;
 import android.widget.ListView;
 
 import java.util.Objects;
@@ -22,15 +20,12 @@ public class RSVActivity extends CommonCode {
         rsvListView = findViewById(R.id.rsvListView);
         populateListView(airForceRsvPath, rsvListView);
 
-        rsvListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
-                String text = createArrayList(airForceRsvPath).get(position);
-                path = airForceRsvPath + text;
-                title = text.split("#")[0];
-                subTitle = text.split("#")[1].substring(0, text.split("#")[1].length()-4);
-                newActivity(PDFActivity.class);
-            }
+        rsvListView.setOnItemClickListener((adapterView, view, position, id) -> {
+            String text = createArrayList(airForceRsvPath).get(position);
+            path = airForceRsvPath + text;
+            title = text.split("#")[0];
+            subTitle = text.split("#")[1].substring(0, text.split("#")[1].length()-4);
+            newActivity(PDFActivity.class);
         });
     }
 

@@ -50,7 +50,7 @@ public class CommonCode extends AppCompatActivity {
     //Extra Menu Options for FS Toolkit Menu
     public static String oxConvTitle = "zzAltitude Oxygen Converter.txt";
     public static String pracGuideTitle = "zzASAMS Practice Guidelines.txt";
-    public static String pracGuideLink = "http://www.asams.org/guidelines.html";
+    public static String pracGuideLink = "http://www.asams.org/practice-guidelines.htm";
     public static String rsvTitle = "zzRSV Sample Briefings.txt";
 
     //Extra Menu Options for Navy Menu

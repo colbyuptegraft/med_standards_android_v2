@@ -6,7 +6,6 @@ import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
-import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.TextView;
@@ -38,12 +37,7 @@ public class OxConvActivity extends CommonCode {
         outputTextView = findViewById(R.id.outputTextView);
         calculateButton = findViewById(R.id.calculateButton);
 
-        calculateButton.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-                calculate();
-            }
-        });
+        calculateButton.setOnClickListener(v -> calculate());
 
     }
 
@@ -63,7 +57,7 @@ public class OxConvActivity extends CommonCode {
 
             Double startingAltitude = Double.parseDouble(startingAltitudeText);
             Double cabinAltitude = Double.parseDouble(cabinAltitudeText);
-            Double initialFiO2 = Double.parseDouble(initialFiO2Text);
+            double initialFiO2 = Double.parseDouble(initialFiO2Text);
 
             if (startingAltitude.equals(cabinAltitude)) {
 
@@ -79,25 +73,32 @@ public class OxConvActivity extends CommonCode {
 
             } else {
 
-                Double m = 0.3048;
+                Double m;
+                m = 0.3048;
 
-                Double startingAltitudeConversion = startingAltitude * m;
-                Double cabinAltitudeConversion = cabinAltitude * m;
-                Double initialFiO2Percent = initialFiO2 / 100;
+                double startingAltitudeConversion = startingAltitude * m;
+                double cabinAltitudeConversion = cabinAltitude * m;
+                double initialFiO2Percent = initialFiO2 / 100;
 
-                Double denominator = 8.31447 * 288.15;
-                Double topNum = 9.80665 * 0.0289644 * startingAltitudeConversion;
-                Double bottomNum = 9.80665 * 0.0289644 * cabinAltitudeConversion;
+                double denominator = 8.31447 * 288.15;
 
-                Double topExp = exp(-1 * (topNum / denominator));
-                Double bottomExp = exp(-1 * (bottomNum / denominator));
+                double topNum;
+                topNum = 9.80665 * 0.0289644 * startingAltitudeConversion;
 
-                Double finalFiO2 = ((initialFiO2Percent * topExp) / bottomExp);
+                double bottomNum;
+                bottomNum = 9.80665 * 0.0289644 * cabinAltitudeConversion;
+
+                double topExp;
+                topExp = exp(-1 * (topNum / denominator));
+
+                double bottomExp = exp(-1 * (bottomNum / denominator));
+
+                double finalFiO2 = ((initialFiO2Percent * topExp) / bottomExp);
 
                 int finalResult = (int) Math.round(finalFiO2 * 100);
 
                 if (finalResult > 0) {
-                    String textOne = "Equivalent FiO2: " + Integer.toString(finalResult) + "%";
+                    String textOne = "Equivalent FiO2: " + finalResult + "%";
                     String textTwo;
 
                     if (finalResult <= 21) {

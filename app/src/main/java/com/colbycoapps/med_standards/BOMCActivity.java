@@ -1,8 +1,6 @@
 package com.colbycoapps.med_standards;
 
 import android.os.Bundle;
-import android.view.View;
-import android.widget.AdapterView;
 import android.widget.ListView;
 
 import java.util.Objects;
@@ -22,15 +20,12 @@ public class BOMCActivity extends CommonCode {
         bomcListView = findViewById(R.id.bomcListView);
         populateListView(airForceBomcPath, bomcListView);
 
-        bomcListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
-                String text = createArrayList(airForceBomcPath).get(position);
-                path = airForceBomcPath + text;
-                title = text.split("#")[0];
-                subTitle = text.split("#")[1].substring(0, text.split("#")[1].length()-4);
-                newActivity(PDFActivity.class);
-            }
+        bomcListView.setOnItemClickListener((adapterView, view, position, id) -> {
+            String text = createArrayList(airForceBomcPath).get(position);
+            path = airForceBomcPath + text;
+            title = text.split("#")[0];
+            subTitle = text.split("#")[1].substring(0, text.split("#")[1].length()-4);
+            newActivity(PDFActivity.class);
         });
     }
 
