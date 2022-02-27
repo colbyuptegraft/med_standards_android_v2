@@ -1,5 +1,6 @@
 package com.colbycoapps.med_standards;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import androidx.annotation.NonNull;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
@@ -14,9 +15,10 @@ public class MainActivity extends CommonCode {
     ListView mainMenuListView;
     TextView aboutTextView;
 
-    private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
+    private final BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
 
+        @SuppressLint("NonConstantResourceId")
         @Override
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
             switch (item.getItemId()) {
@@ -81,6 +83,7 @@ public class MainActivity extends CommonCode {
         aboutTextView.setVisibility(View.INVISIBLE);
 
         mainMenuListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @SuppressLint("NonConstantResourceId")
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
                 String text;
