@@ -79,17 +79,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.47 (1)">
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/MSD#Medical Standards Directory (18 Mar 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFTTP 3-42.5#Aeromedical Evacuation (23 Jul 2019).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFTTP 3-42.51#Critical Care Air Transport Team (CCATT) (7 Apr 2015).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFTTP 3-42.9#Global Health Engagement &amp; International Health Specialist Teams (25 Nov 2014).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/navy/Navy Waiver Guide#U.S. Navy Aeromedical Reference &amp; Waiver Guide (4 Mar 2022).pdf" afterDir="false" />
+    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.49 (1)">
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/MSD#Medical Standards Directory (1 Feb 2022).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/navy/Navy Waiver Guide#U.S. Navy Aeromedical Reference &amp; Waiver Guide (18 Feb 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/navy/Navy Waiver Guide#U.S. Navy Aeromedical Reference &amp; Waiver Guide (4 Mar 2022).pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -368,13 +360,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547429850291</updated>
-    </task>
-    <task id="LOCAL-00002" summary="v1.0.3">
-      <created>1551969707586</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1551969707586</updated>
     </task>
     <task id="LOCAL-00003" summary="v1.0.4">
       <created>1552079684308</created>
@@ -712,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645925578986</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="v1.4.49 (1)">
+      <created>1648145798650</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1648145798650</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TodoView">
@@ -741,7 +733,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="v1.3.22" />
     <MESSAGE value="v1.3.24" />
     <MESSAGE value="v1.3.25" />
     <MESSAGE value="v1.3.27" />
@@ -766,6 +757,7 @@
     <MESSAGE value="v1.4.44 (3)" />
     <MESSAGE value="v1.4.46 (1)" />
     <MESSAGE value="v1.4.47 (1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.4.47 (1)" />
+    <MESSAGE value="v1.4.49 (1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.4.49 (1)" />
   </component>
 </project>
