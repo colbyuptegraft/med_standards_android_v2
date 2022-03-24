@@ -6,8 +6,8 @@ android {
         applicationId "com.colbycoapps.med_standards"
         minSdkVersion 26
         targetSdkVersion 31
-        versionCode 1448
-        versionName "1.4.48"
+        versionCode 1449
+        versionName "1.4.49"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
