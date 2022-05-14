@@ -79,26 +79,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.49 (2)">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_6_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/AFECD#Air Force Enlisted Classification Directory (30 Apr 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/AFOCD#Air Force Officer Classification Directory (30 Apr 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/RTFS Post-COVID#Return to Flying Status Post-COVID-19 Infection Guidance (9 Feb 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/SGP-earls#Overview of SGP Roles &amp; Responsibilities (Mar 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 10-3502 v1#Pararescue &amp; Combat Rescue Officer Training (30 Mar 2017).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 10-3502 v2#Pararescue &amp; Combat Rescue Officer Standardization &amp; Eval Program (30 Apr 2021).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 10-3503#Personnel Parachute Program (23 Sep 2020).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 10-3504#Dive Program (28 Jan 2021).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 10-3509#Air Force Special Warfare Medical Operations (22 Dec 2020).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 10-3511#Pararescue &amp; Combat Rescue Officer Operations (2 Dec 2020).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFMAN 36-2905#Air Force Physical Fitness Program (21 Apr 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFPD 10-35#Air Force Special Warfare (5 Jan 2021).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/army/DAPAM 40-502#Medical Readiness Procedures (27 Jun 2019).pdf" afterDir="false" />
+    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.50">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.androidTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.unitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/Approved Med List#Official Air Force Aerospace Medicine Approved Medications (10 May 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/GBO Approved Med List#Approved Ground Based Operator Medications (10 May 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/MSD#Medical Standards Directory (10 May 2022).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_2_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_2_4_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_4_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_4_1_aar.xml" afterDir="false" />
@@ -128,7 +119,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_4_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_6_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_6_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_6_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" afterDir="false" />
@@ -147,27 +138,29 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_barteksc_android_pdf_viewer_2_8_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_barteksc_android_pdf_viewer_2_8_2_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_barteksc_pdfium_android_1_7_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_barteksc_pdfium_android_1_7_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_5_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_6_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_6_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mani_ThinDownloadManager_1_4_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mani_ThinDownloadManager_1_4_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_snatik_storage_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_snatik_storage_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/RTFS Post-COVID#Return to Flying Status Post-COVID-19 Infection Guidance (3 Sep 2020).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/SGP-earls#Overview of SGP Roles &amp; Responsibilities (Oct 2021).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFECD#Air Force Enlisted Classification Directory (31 Oct 2021).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 91-202#The US Air Force Mishap Prevention Program (15 Apr 2021).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 91-202#US Air Force Mishap Prevention Program (12 Apr 2022).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 11-202 v2#Aircrew Standardization &amp; Evaluation Program (30 Aug 2021).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 11-202 v2#Aircrew Standardization &amp; Evaluation Program (3 May 2022).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFOCD#Air Force Officer Classification Directory (31 Oct 2021).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFMAN 36-2905#Air Force Physical Fitness Program (26 Jul 2021).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/Approved Med List#Official Air Force Aerospace Medicine Approved Medications (1 Feb 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/GBO Approved Med List#Approved Ground Based Operator Medications (1 Feb 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/MSD#Medical Standards Directory (18 Mar 2022).pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/med_standards.iml" beforeDir="false" afterPath="$PROJECT_DIR$/med_standards.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\colby\.android\avd\Pixel_XL_API_30.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\colby\.android\avd\Pixel_4_API_32.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -241,7 +234,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="device.picker.selection" value="Nexus_5_API_28" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -254,11 +247,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\main" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\fsToolKit" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\otherAfis" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\army" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\navy" />
-      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\main" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\colby_xovogk3\Google Drive\App_Projects\Android\med_standards\app" />
@@ -296,8 +289,6 @@
       <option name="MODE" value="specific_activity" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
@@ -355,8 +346,6 @@
       <option name="MODE" value="default_activity" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
@@ -439,13 +428,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547429850291</updated>
-    </task>
-    <task id="LOCAL-00004" summary="v1.0.4">
-      <created>1555173550464</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1555173550464</updated>
     </task>
     <task id="LOCAL-00005" summary="v1.0.6">
       <created>1557682672416</created>
@@ -783,7 +765,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648146177402</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="v1.4.50">
+      <created>1651937481757</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1651937481758</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TodoView">
@@ -812,7 +801,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="v1.3.25" />
     <MESSAGE value="v1.3.27" />
     <MESSAGE value="v1.3.28" />
     <MESSAGE value="v1.3.29" />
@@ -837,6 +825,7 @@
     <MESSAGE value="v1.4.47 (1)" />
     <MESSAGE value="v1.4.49 (1)" />
     <MESSAGE value="v1.4.49 (2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.4.49 (2)" />
+    <MESSAGE value="v1.4.50" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.4.50" />
   </component>
 </project>

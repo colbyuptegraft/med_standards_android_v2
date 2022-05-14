@@ -9,8 +9,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fae7cab37dd388e8a523c28f1a93662e/transformed/jetified-ThinDownloadManager-1.4.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/42eccf8c5ef05a63ea811b53d4257898/transformed/jetified-ThinDownloadManager-1.4.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0a2b16752a39086418a739eb748f6b04/transformed/jetified-ThinDownloadManager-1.4.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0a2b16752a39086418a739eb748f6b04/transformed/jetified-ThinDownloadManager-1.4.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0a2b16752a39086418a739eb748f6b04/transformed/jetified-ThinDownloadManager-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/42519dcfbc5034ab2ea439705daeb707/transformed/jetified-ThinDownloadManager-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/42519dcfbc5034ab2ea439705daeb707/transformed/jetified-ThinDownloadManager-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/42519dcfbc5034ab2ea439705daeb707/transformed/jetified-ThinDownloadManager-1.4.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mani/ThinDownloadManager/1.4.0/7b00ea2e163bf558bf713c7cb4fd8333cd2e5ebc/ThinDownloadManager-1.4.0-javadoc.jar!/" />
