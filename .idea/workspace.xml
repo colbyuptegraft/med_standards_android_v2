@@ -79,12 +79,26 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.51">
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/Waiver Guide#Air Force Waiver Guide (9 Jun 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 44-102#Medical Care Management (29 Jun 2021).pdf" afterDir="false" />
+    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.52">
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/AFRC TIG v2#Air Force Reserve Command Tactical Implementation Guide - Version 2 (2 Mar 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFSOCI 48-1010#Aeromedical Special Operations (23 Jun 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/DoDI 6025.19#Individual Medical Readiness (13 Jul 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/DoDI 6130.03 v1#Medical Standards - Appointment, Enlistment, or Induction (6 Jun 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/DoDI 6130.03 v2#Medical Standards - Retention (6 Jun 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/DoDM 6055.05#Occupational Medical Exams &amp; Surveillance Manual (27 Jul 2022).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/Waiver Guide#Air Force Waiver Guide (16 Feb 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 10-3504#Dive Program (28 Jan 2021).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 10-3504#Dive Program (26 May 2022).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 44-102#Medical Care Management (29 Jun 2021).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 44-102#Medical Care Management (13 Jul 2022).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 13-501 (DODM 5210.42)#Nuclear Weapons PRP (30 Sep 2021).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 13-501 (DODM 5210.42)#Nuclear Weapons PRP (17 Aug 2022).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFSOCI 48-1010#Aeromedical Special Operations (5 Jun 2019).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/DoDI 6025.19#Individual Medical Readiness (12 May 2020).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/DoDI 6130.03 v1#Medical Standards - Appointment, Enlistment, or Induction (30 Apr 2021).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/DoDI 6130.03 v2#Medical Standards - Retention (4 Sep 2020).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/DoDM 6055.05#Occupational Medical Exams &amp; Surveillance Manual (31 Aug 2018).pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +150,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1g9bFmqSzP5X48tcA9PBd3eh0cT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -157,7 +174,6 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="sdk&#9;ACTION&#9;Android.RunAndroidSdkManager" />
     <property name="android-custom-viewC:/Users/colby/AppData/Local/Android/Sdk/sources/android-31/android/widget/AdapterView.java_AdapterView_DIMENSIONS" value="1080&#10;1920" />
     <property name="android-custom-viewC:/Users/colby/AppData/Local/Android/Sdk/sources/android-31/android/widget/AdapterView.java_SELECTED" value="AdapterView" />
@@ -165,7 +181,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="device.picker.selection" value="Nexus_5_API_28" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -178,11 +194,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\otherAfis" />
-      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\main" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\fsToolKit" />
+      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\otherAfis" />
+      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\dod" />
+      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\main" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\army" />
-      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\navy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\colby_xovogk3\Google Drive\App_Projects\Android\med_standards\app" />
@@ -359,13 +375,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547429850291</updated>
-    </task>
-    <task id="LOCAL-00006" summary="v1.0.7">
-      <created>1557883073998</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1557883073998</updated>
     </task>
     <task id="LOCAL-00007" summary="v1.0.8">
       <created>1561163930753</created>
@@ -703,7 +712,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652558091147</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="v1.4.52">
+      <created>1655305819669</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1655305819670</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TodoView">
@@ -732,7 +748,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="v1.3.28" />
     <MESSAGE value="v1.3.29" />
     <MESSAGE value="v1.3.30" />
     <MESSAGE value="v1.4.31 (BOMC menu addition)" />
@@ -757,6 +772,7 @@
     <MESSAGE value="v1.4.49 (2)" />
     <MESSAGE value="v1.4.50" />
     <MESSAGE value="v1.4.51" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.4.51" />
+    <MESSAGE value="v1.4.52" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.4.52" />
   </component>
 </project>
