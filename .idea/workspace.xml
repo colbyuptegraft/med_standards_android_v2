@@ -79,27 +79,29 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.54">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_5_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_5_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_5_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_5_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_5_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_5_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_5_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/AFRL-SA-WP-SR-2012-0005#USAFSAM Laser Injury Guidebook (Apr 2012).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/Approved Med List#Official Air Force Aerospace Medicine Approved Medications (21 Sep 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/GBO Approved Med List#Approved Ground Based Operator Medications (21 Sep 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/MSD#Medical Standards Directory (21 Sep 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/OTC Approved Med List#Over-the-Counter Medications Not Requiring Flight Surgeon Approval (21 Sep 2022).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.55">
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/AFECD#Air Force Enlisted Classification Directory (31 Oct 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/AFOCD#Air Force Officer Classification Directory (31 Oct 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/Prehospital Emergency Care Protocols#USA-USAF Joint Prehospital Emergency Care Protocols (Jul 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/SGP-earls#Overview of SGP Roles &amp; Responsibilities (Aug 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 11-402#Aviation &amp; Parachutist Service (13 Sep 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 48-149#Flight &amp; Operational Medicine Program (FOMP) (19 Oct 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFI 36-2910#LOD Determination, Medical Continuation, &amp; Incapacitation Pay (28 Sep 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFI 48-145#Occupational &amp; Environmental Health (22 Sep 2022).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFMAN 91-223#Aviation Safety Investigations &amp; Reports (20 Sep 2022).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/Approved Med List#Official Air Force Aerospace Medicine Approved Medications (10 May 2022).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/GBO Approved Med List#Approved Ground Based Operator Medications (10 May 2022).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/MSD#Medical Standards Directory (10 May 2022).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/OTC Approved Med List#Over-the-Counter Medications Not Requiring Flight Surgeon Approval (1 Feb 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/AFECD#Air Force Enlisted Classification Directory (30 Apr 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/AFOCD#Air Force Officer Classification Directory (30 Apr 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit/SGP-earls#Overview of SGP Roles &amp; Responsibilities (Mar 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 10-3502 v1#Pararescue &amp; Combat Rescue Officer Training (30 Mar 2017).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 10-3502 v2#Pararescue &amp; Combat Rescue Officer Standardization &amp; Eval Program (30 Apr 2021).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 48-145#Occupational &amp; Environmental Health Program (11 Jul 2018).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 11-402#Aviation &amp; Parachutist Service (3 Sep 2021).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 48-149#Flight &amp; Operational Medicine Program (FOMP) (10 Jun 2021).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFI 36-2910#LOD Determination, Medical Continuation, &amp; Incapacitation Pay (3 Sep 2021).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFMAN 91-223#Aviation Safety Investigations &amp; Reports (3 Aug 2021).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/army/PE Requirements Table#Army Physical Exam Requirements Table (12 Nov 2002).pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +186,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="device.picker.selection" value="Nexus_5_API_28" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/fsToolKit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -197,9 +199,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\otherAfis" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\fsToolKit" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\main" />
-      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\otherAfis" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\dod" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\army" />
     </key>
@@ -378,13 +380,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547429850291</updated>
-    </task>
-    <task id="LOCAL-00009" summary="v1.1.8">
-      <created>1561561426956</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1561561426956</updated>
     </task>
     <task id="LOCAL-00010" summary="v1.1.10">
       <created>1563497310532</created>
@@ -722,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663526579020</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="v1.4.55">
+      <created>1664057949326</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1664057949326</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TodoView">
@@ -751,7 +753,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="v1.4.31 (BOMC menu addition)" />
     <MESSAGE value="v1.4.31 (BOMC menu addition) Live" />
     <MESSAGE value="v1.4.32" />
     <MESSAGE value="v1.4.33" />
@@ -776,6 +777,7 @@
     <MESSAGE value="v1.4.52" />
     <MESSAGE value="v1.4.53" />
     <MESSAGE value="v1.4.54" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.4.54" />
+    <MESSAGE value="v1.4.55" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.4.55" />
   </component>
 </project>
