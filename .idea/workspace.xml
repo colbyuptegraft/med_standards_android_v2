@@ -79,7 +79,34 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.60.4" />
+    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.60.4">
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AETCI 48-103#Training Health &amp; Human Performance (13 Apr 2023).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 10-3504#Dive Program (9 Jun 2023).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 48-147#Tri-Service Food Code (21 Jun 2023).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFSOCI 48-1010#Aeromedical Special Operations (8 May 2023).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFTTP 3-42.51#Critical Care Air Transport Team (CCATT) (17 Apr 2023).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFI 36-2910#LOD Determination, Medical Continuation, &amp; Incapacitation Pay (23 May 2023).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 17#USCENTCOM Individual Protection &amp; Individual-Unit Deployment Policy (Apr 2023).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 17-Tab A#Amplification of the Minimal Standards of Fitness for Deployment to the CENTCOM AOR (Apr 2023).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 17-Tab D#Theater Requirements for Medical CBRN Defense Materiel (Apr 2023).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/Waiver Guide#Air Force Waiver Guide (21 Jun 2023).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/Waiver Guide#Air Force Waiver Guide (21 Sep 2023).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AETCI 48-103#Training Health &amp; Human Performance (24 Apr 2018).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 10-3504#Dive Program (26 May 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 44-102#Medical Care Management (13 Jul 2022).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 44-102#Medical Care Management (5 Sep 2023).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFI 91-202#US Air Force Mishap Prevention Program (12 Apr 2022).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFI 91-202#US Air Force Mishap Prevention Program (13 Apr 2023).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 11-402#Aviation &amp; Parachutist Service (13 Sep 2022).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 11-402#Aviation &amp; Parachutist Service (14 Jun 2023).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFMAN 48-147#Tri-Service Food Code (1 Mar 2019).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFSOCI 48-1010#Aeromedical Special Operations (23 Jun 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/AFTTP 3-42.51#Critical Care Air Transport Team (CCATT) (7 Apr 2015).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis/DAFI 36-2910#LOD Determination, Medical Continuation, &amp; Incapacitation Pay (28 Sep 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 16#USCENTCOM Individual Protection &amp; Individual-Unit Deployment Policy (Jan 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 16-Tab A#Amplification of the Minimal Standards of Fitness for Deployment to the CENTCOM AOR (Jan 2022).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 16-Tab B#Amplification of Requirements for PCS Personnel in the CENTCOM AOR (Jan 2022).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 17-Tab B#Amplification of Requirements for PCS Personnel in the CENTCOM AOR (Apr 2023).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 16-Tab C#CENTCOM Medical Waiver Request (Jan 2022).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 17-Tab C#CENTCOM Medical Waiver Request (Apr 2023).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 16-Tab D#Theater Requirements for Medical CBRN Defense Materiel (Jan 2022).pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,11 +190,11 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="device.picker.selection" value="Nexus_5_API_28" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/otherAfis" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="PsdUISettings">
@@ -176,11 +203,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\otherAfis" />
+      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\dod" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\main" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\army" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\navy" />
-      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\fsToolKit" />
-      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\otherAfis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\colby_xovogk3\Google Drive\App_Projects\Android\med_standards\app" />
@@ -357,27 +384,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547429850291</updated>
-    </task>
-    <task id="LOCAL-00018" summary="v1.3.17">
-      <created>1579471068612</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1579471068612</updated>
-    </task>
-    <task id="LOCAL-00019" summary="v1.3.18">
-      <created>1582391561466</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1582391561466</updated>
-    </task>
-    <task id="LOCAL-00020" summary="v1.3.19">
-      <created>1582929256993</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1582929256994</updated>
     </task>
     <task id="LOCAL-00021" summary="v1.3.20">
       <created>1585405664062</created>
@@ -701,7 +707,28 @@
       <option name="project" value="LOCAL" />
       <updated>1693057129050</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="v1.4.60.4">
+      <created>1693057566997</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1693057566997</updated>
+    </task>
+    <task id="LOCAL-00068" summary="v1.4.60.4">
+      <created>1693057743050</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1693057743050</updated>
+    </task>
+    <task id="LOCAL-00069" summary="v1.4.60.4">
+      <created>1693057753806</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1693057753806</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TodoView">
