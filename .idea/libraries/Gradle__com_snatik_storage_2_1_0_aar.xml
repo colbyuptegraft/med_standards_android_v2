@@ -1,17 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.snatik:storage:2.1.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee268c99abfffd14fc78d8bbc11a8427/jetified-storage-2.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a9f86221384072b324679cc71b2578b3/jetified-storage-2.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d83917f9dd5686daf45acc8aaade691/jetified-storage-2.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cadc8f9c47e8773861cca5a283ef6547/transformed/jetified-storage-2.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/59f1caa1f50bd1c059cfc3b935f5d0dd/transformed/jetified-storage-2.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af17887f0a39717dd1a736d7281ead08/transformed/jetified-storage-2.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cfc0de9d452fa267bd36f766a0a2c7c0/transformed/jetified-storage-2.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a4ed1c0ef5c8b3117cb9f1cd652a56c7/transformed/jetified-storage-2.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f4ab351a2c0a9eb20e43e83661418f27/transformed/jetified-storage-2.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c3bf8d172d6553709a7e286affd9d705/transformed/jetified-storage-2.1.0/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c3bf8d172d6553709a7e286affd9d705/transformed/jetified-storage-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c3bf8d172d6553709a7e286affd9d705/transformed/jetified-storage-2.1.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c3bf8d172d6553709a7e286affd9d705/transformed/jetified-storage-2.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
