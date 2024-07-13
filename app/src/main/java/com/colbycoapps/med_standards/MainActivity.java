@@ -77,8 +77,10 @@ public class MainActivity extends CommonCode {
         //Populate TextView and set it to invisible initially
         String message = "This application presents the medical standards for special duty personnel of the United States Air Force, Army, and Navy as well as" +
                 " some other useful tools and information for Aerospace Medicine Professionals.\n\nAll AFIs, ARs, and Navy documents were screening and approved for" +
-                " inclusion in this application by Air Force Public Affairs.\n\nUpdates with new document versions will occur once every 4-6 weeks.  For questions," +
-                " concerns, and/or suggestions, please email info@doc-apps.com";
+                " inclusion in this application by Air Force Public Affairs.\n\nUpdates with new document versions will occur once every 4-6 weeks. For questions," +
+                " concerns, and/or suggestions, please email info@doc-apps.com\n\nNote: Effective 30 Jun 2025, marking 10 years of independently creating & maintaining" +
+                " this app, I will no longer be able to continue this service." +
+                "  If you have coding experience and are interested in taking ownership of Med Standards, please email the above address.";
         aboutTextView.setText(message);
         aboutTextView.setVisibility(View.INVISIBLE);
 
