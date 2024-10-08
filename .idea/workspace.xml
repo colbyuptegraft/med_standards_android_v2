@@ -79,18 +79,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.60.11">
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/MSD#Medical Standards Directory (2 Aug 2024).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/AFRICOM AC Form 42#Travel Medical Screening Checklist (13 Jul 2023).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/AFRICOM AC Form 43#Medical Waiver Request (14 Jul 2023).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/AFRICOM#Force Health Protection Requirements &amp; Responsibilities for AOR (15 Sep 2023).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/INDOPACOM#Force Health Protection Guidance for FY2024 (6 Dec 2023).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/SOUTHCOM Attachment A#Medical Waiver Request Form 2022-2024 (27 Jul 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/SOUTHCOM Attachment B#Amplification of Minimal Standards for AOR (21 Feb 2023).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/SOUTHCOM Attachment C#Medical Waiver Process 2022-2024 (21 Feb 2023).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/SOUTHCOM Attachment D#Force Health Protection Guidance for AOR (16 Feb 2023).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/SOUTHCOM Attachment F#Reporting Potentially Concussive Events (27 Jul 2022).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/SOUTHCOM#Medical Suitability Screening for AOR (21 Feb 2023).pdf" afterDir="false" />
+    <list default="true" id="06ab6082-bc20-4472-b9ba-ba0aa5bc86cb" name="Default" comment="v1.4.60.12">
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
@@ -98,21 +87,17 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/MSD#Medical Standards Directory (6 Mar 2024).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 17#USCENTCOM Individual Protection &amp; Individual-Unit Deployment Policy (Apr 2023).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/CENTCOM MOD 17#Individual Protection &amp; Individual-Unit Deployment Policy (Apr 2023).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 17-Tab A#Amplification of the Minimal Standards of Fitness for Deployment to the CENTCOM AOR (Apr 2023).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/CENTCOM MOD 17-Tab A#Amplification of the Minimal Standards of Fitness for Deployment to the AOR (Apr 2023).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 17-Tab B#Amplification of Requirements for PCS Personnel in the CENTCOM AOR (Apr 2023).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/CENTCOM MOD 17-Tab B#Amplification of Requirements for PCS Personnel in the AOR (Apr 2023).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 17-Tab C#CENTCOM Medical Waiver Request (Apr 2023).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/CENTCOM MOD 17-Tab C#Medical Waiver Request (Apr 2023).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/MOD 17-Tab D#Theater Requirements for Medical CBRN Defense Materiel (Apr 2023).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/dod/CENTCOM MOD 17-Tab D#Theater Requirements for Medical CBRN Defense Materiel (Apr 2023).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/Waiver Guide#Air Force Waiver Guide (21 Jun 2024).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main/Waiver Guide#Air Force Waiver Guide (1 Oct 2024).pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\colby\.android\avd\Pixel_5_API_32.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\colby\.android\avd\Pixel_5_API_32_1.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -198,7 +183,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="device.picker.selection" value="Nexus_5_API_28" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/pdfs/dod" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets/pdfs/airForce/main" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -211,8 +196,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\dod" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\main" />
+      <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\dod" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\army" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\fsToolKit" />
       <recent name="C:\Users\colby\My Drive\App_Projects\Android\med_standards\app\src\main\assets\pdfs\airForce\otherAfis" />
@@ -392,13 +377,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547429850291</updated>
-    </task>
-    <task id="LOCAL-00026" summary="v1.3.27">
-      <created>1595602934773</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1595602934773</updated>
     </task>
     <task id="LOCAL-00027" summary="v1.3.28">
       <created>1597531187498</created>
@@ -736,7 +714,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720883218866</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="v1.4.60.12">
+      <created>1723303641979</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1723303641979</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TodoView">
@@ -765,7 +750,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="v1.4.44 (2)" />
     <MESSAGE value="v1.4.44 (3)" />
     <MESSAGE value="v1.4.46 (1)" />
     <MESSAGE value="v1.4.47 (1)" />
@@ -790,6 +774,7 @@
     <MESSAGE value="v1.4.60.8" />
     <MESSAGE value="v1.4.60.9" />
     <MESSAGE value="v1.4.60.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.4.60.11" />
+    <MESSAGE value="v1.4.60.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.4.60.12" />
   </component>
 </project>
