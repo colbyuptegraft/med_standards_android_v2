@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/med_standards.iml" filepath="$PROJECT_DIR$/med_standards.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/med_standards.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/med_standards.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/med_standards.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/med_standards.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/med_standards.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/med_standards_android_v2.iml" filepath="$PROJECT_DIR$/.idea/modules/med_standards_android_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/med_standards_android_v2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/med_standards_android_v2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/med_standards_android_v2.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/med_standards_android_v2.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/med_standards_android_v2.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/med_standards_android_v2.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/med_standards_android_v2.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/med_standards_android_v2.app.unitTest.iml" />
     </modules>
   </component>
 </project>
